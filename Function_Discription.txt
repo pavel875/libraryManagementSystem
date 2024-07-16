@@ -1,0 +1,22 @@
+In this project when we run the program we can see the output in the terminal. When the program run we get few options. The options are make as like the requirement given in the assignment. Lets describe the functions and the features one by one.
+The program run from the library.py functions.
+
+1,Add Book():
+ This option is create to add book in the library. When we choose 1 to add a book we have to entry the "title, author, ISBN, Publish year, Price, Quantity" serially in the terminal. When we add a book it also saved in the 'books.csv' file. Then a massage "Book added successfully" shown to us.
+
+2.Show all book():
+This function show us all the books available in the library. If there is no book then a massage "No book available" shown to us.
+
+3.Search book():
+In this step user can search any book. They have two options , they can search by book title or ISBN of the book. They also can search the book by its author name.
+4.Remove Book():
+In this step user can remove any book from the library. They just need to follow the instruction.
+5.Lend Book():
+User can also lend a book from the library . They just need to select the book by following instruction, and give their information then they can lend a bool.
+6.See all lender():
+In this step we can see the people who lend a book and their information.
+7.Return Book():
+In this step user can return that book he/she lended by following instructions.
+
+
+
